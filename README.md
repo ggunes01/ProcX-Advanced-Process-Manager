@@ -1,6 +1,6 @@
 # ProcX - Advanced Linux Process Manager
 
-ProcX is a command-line process manager written in C for Linux systems. It was developed as a semester project for the **Operating Systems** course in the 3rd year of Computer Engineering.
+ProcX is a command-line process manager written in C for Linux systems. It was developed as a semester project for the **Operating Systems** course in the 3rd year of Software Engineering.
 
 The project demonstrates core operating system concepts such as process creation, inter-process communication (IPC), synchronization, multithreading, and signal handling.
 
