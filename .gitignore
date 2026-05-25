@@ -1,0 +1,8 @@
+.DS_Store
+
+# Build output
+procx
+
+# Runtime key files are created automatically by the program.
+procx_mq_keyfile
+procx_shm_keyfile
